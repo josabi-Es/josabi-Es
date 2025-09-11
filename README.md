@@ -38,5 +38,4 @@ Here you’ll find:
 
 ✉️ **Contact Me**  
 
-- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/](https://www.linkedin.com/in/josesalasbiedma/))  
-
+- [LinkedIn](https://www.linkedin.com/in/josesalasbiedma/)
