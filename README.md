@@ -10,8 +10,7 @@ Here you’ll find:
 - A selection of **public projects**  
 - Work in progress and experiments that reflect my curiosity  
 
-## 🛠️ Technical Skills
-
+## TECHNOLOGY STACKS
 
 | Category                  | Technologies |
 |---------------------------|--------------|
@@ -28,7 +27,7 @@ Here you’ll find:
 
 ---
 
-## 🌱 In Progress / Learning
+##  Work in Progress
 
 | Category                  | Technologies |
 |---------------------------|--------------|
