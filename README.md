@@ -1,4 +1,4 @@
-### Welcome to my Git profile!
+## Welcome to my Git profile!
 
 
 Hi, I’m José.  
@@ -12,7 +12,7 @@ Here you’ll find:
 
 ## ✉️ **Contact Me**  
 
-<a href="https://www.linkedin.com/in/josesalasbiedma/" style="font-size:24px;">🔗 LinkedIn</a>
+### <a href="https://www.linkedin.com/in/josesalasbiedma/" style="font-size:48 px;">🔗 LinkedIn</a>
 
 ## TECHNOLOGY STACKS
 
@@ -48,5 +48,4 @@ Here you’ll find:
 <a href="https://github.com/josabi-ES/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josabi-ES&layout=compact&theme=light" alt="Top Languages" style="display:inline-block; margin-left:10px;"/>
 </a>
-
 
