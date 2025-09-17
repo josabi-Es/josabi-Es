@@ -8,7 +8,11 @@ I enjoy working with data, building backend systems, and exploring how machine l
 Here you’ll find:  
 - My main stack in **data, ML/AI, and orchestration**  
 - A selection of **public projects**  
-- Work in progress and experiments that reflect my curiosity  
+- Work in progress and experiments that reflect my curiosity
+
+## ✉️ **Contact Me**  
+
+<a href="https://www.linkedin.com/in/josesalasbiedma/" style="font-size:24px;">🔗 LinkedIn</a>
 
 ## TECHNOLOGY STACKS
 
@@ -36,6 +40,13 @@ Here you’ll find:
 | **Advanced ML / AI**      | ![Generative AI](https://img.shields.io/badge/Generative_AI-6C63FF?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 
 
-✉️ **Contact Me**  
+## 📊 My GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/josesalasbiedma/)
+<a href="https://github.com/josabi-ES/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=josabi-ES&show_icons=true&theme=light" alt="GitHub Stats" style="display:inline-block;"/>
+</a>
+<a href="https://github.com/josabi-ES/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josabi-ES&layout=compact&theme=light" alt="Top Languages" style="display:inline-block; margin-left:10px;"/>
+</a>
+
+
