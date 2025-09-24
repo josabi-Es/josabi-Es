@@ -5,14 +5,19 @@ Hi, I’m José.
 
 I enjoy working with data, building backend systems, and exploring how machine learning and cloud technologies can solve real problems. This space is where I share some of the tools I use, the projects I experiment with, and a bit of what I’m learning along the way.  
 
-Here you’ll find:  
-- My main stack in **data, ML/AI, and orchestration**  
-- A selection of **public projects**  
-- Work in progress and experiments that reflect my curiosity
+Hi, I’m **José** — welcome to my portfolio 👋  
 
-## ✉️ **Contact Me**  
+If you’re here, you can:  
+- Explore my **background** (see the diagram below)  
+- Check out my **projects & experiments**  
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/josesalasbiedma/)**  
 
-### <a href="https://www.linkedin.com/in/josesalasbiedma/" style="font-size:48 px;">🔗 LinkedIn</a>
+<div align="center">
+  
+### Career Graph
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4ae51472-d0a4-4828-b485-37fbd13af1ab" width="750" alt="Career Graph" />
+</div>
 
 ## TECHNOLOGY STACKS
 
