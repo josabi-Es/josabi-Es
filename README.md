@@ -1,19 +1,39 @@
 ## Welcome to my Git profile!
-Hi, I’m **José** — welcome to my portfolio 👋  
+Hi, I’m **José Salas**. Welcome to my portfolio, where I share my work as a Data Engineer. 👋  
 
 If you’re here, you can:  
-- Explore my **background** (see the diagram below)  
-- Check out my **projects & experiments**  
-- Connect with me on **[LinkedIn](https://www.linkedin.com/in/josesalasbiedma/)**  
+- Explore my **background** and skills, and connect with me on **[LinkedIn](https://www.linkedin.com/in/josesalasbiedma/)**
+- Check out my public projects & experiments
+- Take a look at my stats and most familiar technologies, all of which are kept up-to-date
 
-<div align="center">
-  
-### Career Graph
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4ae51472-d0a4-4828-b485-37fbd13af1ab" width="750" alt="Career Graph" />
+<!-- Stats de GitHub -->
+
+### Github stats
+<div style="display: flex; flex-direction: column; gap: 20px; font-size: 18px;">
+
+  <!-- Estadísticas generales -->
+  <a href="https://github.com/josabi-ES/github-readme-stats" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=josabi-ES&show_icons=true&theme=light" 
+      width="400" 
+      alt="GitHub Stats"
+      style="border-radius: 10px;"
+    >
+  </a>
+
+  <!-- Lenguajes principales -->
+  <a href="https://github.com/josabi-ES/github-readme-stats" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josabi-ES&layout=compact&theme=light" 
+      width="440" 
+      alt="Top Languages"
+      style="border-radius: 10px;"
+    >
+  </a>
+
 </div>
-
-### TECHNOLOGY STACKS
+  
+### Technology stacks
 
 | Category                  | Technologies |
 |---------------------------|--------------|
@@ -26,52 +46,42 @@ If you’re here, you can:
 | **APIs / Backend**        | ![REST](https://img.shields.io/badge/REST-FF6C37?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 | **IDE & Environments**    | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Operating Systems**     | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-
-
-### WORKING IN PROGRESS
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
-  
-  <!-- Tabla de tecnologías -->
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><b>Cloud Platforms</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevOps / Orchestration</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/CI/CD-6e40c9?style=flat">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Advanced ML / AI</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=flat">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat">
-      </td>
-    </tr>
-  </table>
-  
-### STATS
-  <!-- Stats de GitHub -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <a href="https://github.com/josabi-ES/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=josabi-ES&show_icons=true&theme=light" width="250">
-    </a>
-    <a href="https://github.com/josabi-ES/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josabi-ES&layout=compact&theme=light" width="250">
-    </a>
-  </div>
-
 </div>
+
+### Working in progress
+
+<div style="display: flex; flex-direction: row; gap: 30px; align-items: flex-start;">
+
+  <!-- Tabla de tecnologías -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <table border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <th>Category</th>
+        <th>Technologies</th>
+      </tr>
+      <tr>
+        <td><b>Cloud Platforms</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white">
+        </td>
+      </tr>
+      <tr>
+        <td><b>DevOps / Orchestration</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/CI/CD-6e40c9?style=flat">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+        </td>
+      </tr>
+      <tr>
+        <td><b>Advanced ML / AI</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=flat">
+          <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat">
+        </td>
+      </tr>
+    </table>
+  </div>
 
 
