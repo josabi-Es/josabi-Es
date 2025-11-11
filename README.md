@@ -8,30 +8,6 @@ If you’re here, you can:
 
 <!-- Stats de GitHub -->
 
-### Github stats
-<div style="display: flex; flex-direction: column; gap: 20px; font-size: 18px;">
-
-  <!-- Estadísticas generales -->
-  <a href="https://github.com/josabi-ES/github-readme-stats" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=josabi-ES&show_icons=true&theme=light" 
-      width="400" 
-      alt="GitHub Stats"
-      style="border-radius: 10px;"
-    >
-  </a>
-
-  <!-- Lenguajes principales -->
-  <a href="https://github.com/josabi-ES/github-readme-stats" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josabi-ES&layout=compact&theme=light" 
-      width="440" 
-      alt="Top Languages"
-      style="border-radius: 10px;"
-    >
-  </a>
-
-</div>
   
 ### Technology stacks
 
