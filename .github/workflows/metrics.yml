@@ -1,0 +1,53 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"  # Cada lunes a las 06:00 UTC
+  workflow_dispatch:       # Disparo manual desde la pestaña Actions
+  push:
+    branches: [feat/dynamic-stats]  # También en push a esta rama (primera prueba)
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: josabi-Es
+          template: classic
+          config_timezone: Europe/Madrid
+
+          # --- QUE SE MUESTRA (base) ---
+          # base vacio: fuera header (nombre, "Joined", "Followed by", "Contributed to").
+          # Solo queda la tarjeta del plugin de lenguajes.
+          base: ""
+
+          # --- ALCANCE: analizar TODOS mis repos (incluidos privados) ---
+          repositories_affiliations: owner       # todo lo que es mio
+          repositories: 100                      # sube el tope si tienes mas de 100
+
+          # --- LENGUAJES (el protagonista) ---
+          # SIN indepth: cuenta bytes de TODOS tus repos -> sale tu mezcla real
+          # de tecnologias (Python, SQL, etc.), no 100% de un solo lenguaje.
+          plugin_languages: yes
+          plugin_languages_details: percentage   # muestra el % al lado
+          plugin_languages_limit: 7              # top 7 tecnologias
+          plugin_languages_ignored: html, css    # solo fuera lo de maquetacion web
+          plugin_languages_colors: github        # colores oficiales de cada lenguaje
+
+          # --- CALENDARIO ISOMÉTRICO ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --- STARRED TOPICS con iconos ---
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
+
+
+          output_action: commit
+          committer_branch: feat/dynamic-stats  # Commitea el SVG en esta misma rama
+          filename: github-metrics.svg
