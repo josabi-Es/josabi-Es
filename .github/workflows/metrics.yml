@@ -5,7 +5,7 @@ on:
     - cron: "0 6 * * 1"  # Cada lunes a las 06:00 UTC
   workflow_dispatch:       # Disparo manual desde la pestaña Actions
   push:
-    branches: [feat/dynamic-stats]  # También en push a esta rama (primera prueba)
+    branches: [main]
 
 jobs:
   github-metrics:
@@ -49,5 +49,5 @@ jobs:
 
 
           output_action: commit
-          committer_branch: feat/dynamic-stats  # Commitea el SVG en esta misma rama
+          committer_branch: main  # Commitea el SVG directamente en main
           filename: github-metrics.svg
