@@ -24,24 +24,31 @@ Hi, I'm **José Salas**, a Data Engineer who follows the same good practices whe
 
 </div>
 
+### Base
+
+Every project starts from one of these two templates:
+
+- **[template-python-projects](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
+- **[template-claude-projects](https://github.com/josabi-Es/template-claude-projects)**: `Claude Code · Spec-Driven Development · MCP · CLAUDE.md`
+
 ### Projects
 
 **Computer Vision / MLOps**
 
-- **[yolo-ops](#)**: trains YOLO models and saves the best one to Hugging Face.
-- **[clearlabelling](#)**: helps me improve my dataset, labeling with the already trained model and letting me fix it by hand.
-- **[frame-extractor](#)**: small tool to pull frames out of a video.
+- **[yolo-ops](#)**: YOLO training and model registry. `YAML · MLflow · Prefect · MinIO · Hugging Face Hub`
+- **[clearlabelling](#)**: auto-labeling and manual review UI, feeds back into yolo-ops. `Hugging Face · MinIO`
+- **[frame-extractor](#)**: video to frames. `OpenCV`
 
 **Data**
 
-- **[MadridSmart](#)**: traffic and air quality analytics for Madrid's open data. Ingest → clean → forecast → dashboard, automated end-to-end with Airflow.
+- **[MadridSmart](#)**: traffic and air quality analytics for Madrid. `Airflow · Medallion architecture · Machine Learning`
 
 **AI Tools**
 
-- **[transcription-project](#)**: transcribes daily meetings with Whisper, lets you chat with the AI about what was discussed, and whenever possible turns it into a 1-2 page summary PDF. Useful for any department, not just tech. I actually use it day to day.
-- **[HireBrain](#)**: local-first AI tool that screens and ranks candidates from a folder of CVs. Extracts structured profiles, filters them against your requirements, and returns a justified shortlist, powered by RAG and a local LLM through Ollama.
-- **[Recommendation_system](#)**: news recommendation system using web scraping, keyword extraction, and vector-based similarity. Simulates how modern platforms personalize content based on reading history, easily extendable to more complex scenarios.
+- **[transcription-project](#)**: meeting transcription and AI summaries. `Whisper · LLM chat · PDF export`
+- **[HireBrain](#)**: local-first CV screening and ranking. `RAG · Ollama`
+- **[Recommendation_system](#)**: news recommender from scraped content. `Embeddings · vector similarity`
 
 **Delivery**
 
-- **[micro-tools-hub](#)**: small FastAPI microservices, containerized and shipped to Docker Hub. Every merge to main builds and pushes a new image automatically.
+- **[micro-tools-hub](#)**: FastAPI microservices, auto-shipped on every merge. `FastAPI · Docker · GitHub Actions`
