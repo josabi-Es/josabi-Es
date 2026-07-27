@@ -1,5 +1,11 @@
 ## Welcome to my Git profile!
 
+<div align="center">
+
+<img src="./jose-ascii.svg" width="370" alt="José Salas — ASCII portrait" />
+
+</div>
+
 Hi, I'm **José Salas**, a Data Engineer with a solid background in **Supervised and Unsupervised Learning**, along with experience in fine-tuning existing neural networks for object detection. Currently, I am focused on building reliable data pipelines, orchestrating cloud migrations with **Databricks** and **Azure**, and continuously expanding my **DevOps** skills through **CI/CD** and deployment practices.
 
 * **Connect with me:** If you want to chat about data or just say hi, you can find me on **[LinkedIn](https://www.linkedin.com/in/josesalasbiedma/))**.
@@ -25,15 +31,17 @@ Hi, I'm **José Salas**, a Data Engineer with a solid background in **Supervised
 
 **Data**
 
-- **[MadridSmart](#)**: data projects around Madrid's open data.
+- **[MadridSmart](#)**: traffic and air quality analytics for Madrid's open data. Ingest → clean → forecast → dashboard, automated end-to-end with Airflow.
 
-**Tools**
+**AI Tools**
 
 - **[transcription-project](#)**: transcribes daily meetings with Whisper, lets you chat with the AI about what was discussed, and whenever possible turns it into a 1-2 page summary PDF. Useful for any department, not just tech. I actually use it day to day.
+- **[HireBrain](#)**: local-first AI tool that screens and ranks candidates from a folder of CVs. Extracts structured profiles, filters them against your requirements, and returns a justified shortlist, powered by RAG and a local LLM through Ollama.
+- **[Recommendation_system](#)**: news recommendation system using web scraping, keyword extraction, and vector-based similarity. Simulates how modern platforms personalize content based on reading history, easily extendable to more complex scenarios.
 
-**DevOps**
+**Delivery**
 
-- **[micro-tools-hub](#)**: small FastAPI microservices, containerized and shipped to Docker Hub.
+- **[micro-tools-hub](#)**: small FastAPI microservices, containerized and shipped to Docker Hub. Every merge to main builds and pushes a new image automatically.
 
 <div align="center">
 
