@@ -6,9 +6,38 @@ Hi, I'm **José Salas**, a Data Engineer with a solid background in **Supervised
 * **Curious how I orchestrate data and tech day-to-day?** Check out my **portfolio** here: **[Web](https://web-build-jsb.netlify.app/)**
 
 <div align="center">
+
+<h3><code>jose@github ~ $ ./stack.sh</code></h3>
+
 <img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,git,githubactions,tensorflow,pytorch,sklearn&theme=light" />
 <br/>
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48"/>
-<br/><br/>
+
+</div>
+
+### Projects
+
+**Computer Vision / MLOps**
+
+- **[yolo-ops](#)**: trains YOLO models and saves the best one to Hugging Face.
+- **[clearlabelling](#)**: helps me improve my dataset, labeling with the already trained model and letting me fix it by hand.
+- **[frame-extractor](#)**: small tool to pull frames out of a video.
+
+**Data**
+
+- **[MadridSmart](#)**: data projects around Madrid's open data.
+
+**Tools**
+
+- **[transcription-project](#)**: transcribes daily meetings with Whisper, lets you chat with the AI about what was discussed, and whenever possible turns it into a 1-2 page summary PDF. Useful for any department, not just tech. I actually use it day to day.
+
+**DevOps**
+
+- **[micro-tools-hub](#)**: small FastAPI microservices, containerized and shipped to Docker Hub.
+
+<div align="center">
+
+<br/>
 <img src="./github-metrics.svg" />
+
 </div>
