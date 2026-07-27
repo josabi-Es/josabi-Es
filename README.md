@@ -2,7 +2,12 @@
 
 <div align="center">
 
-<img src="./jose-ascii.svg" width="370" alt="José Salas — ASCII portrait" />
+<table>
+<tr>
+<td valign="top"><img src="./jose-ascii.svg" width="200" alt="José Salas — ASCII portrait" /></td>
+<td valign="top"><img src="./github-metrics.svg" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -13,11 +18,9 @@ Hi, I'm **José Salas**, a Data Engineer with a solid background in **Supervised
 
 <div align="center">
 
-<h3><code>jose@github ~ $ ./stack.sh</code></h3>
-
-<img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,git,githubactions,tensorflow,pytorch,sklearn&theme=light" />
-<br/>
-<img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,git,githubactions,tensorflow,pytorch,sklearn&theme=light" height="30"/>
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="30" height="30"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="30" height="30"/>
 
 </div>
 
@@ -42,10 +45,3 @@ Hi, I'm **José Salas**, a Data Engineer with a solid background in **Supervised
 **Delivery**
 
 - **[micro-tools-hub](#)**: small FastAPI microservices, containerized and shipped to Docker Hub. Every merge to main builds and pushes a new image automatically.
-
-<div align="center">
-
-<br/>
-<img src="./github-metrics.svg" />
-
-</div>

@@ -39,8 +39,7 @@ jobs:
           plugin_languages_colors: github        # colores oficiales de cada lenguaje
 
           # --- CALENDARIO ISOMÉTRICO ---
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar: no
 
           # --- STARRED TOPICS con iconos ---
           plugin_topics: yes
