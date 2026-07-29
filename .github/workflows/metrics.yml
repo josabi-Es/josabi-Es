@@ -48,5 +48,5 @@ jobs:
 
 
           output_action: commit
-          committer_branch: dev  # Commitea el SVG directamente en dev
+          committer_branch: main
           filename: github-metrics.svg
