@@ -50,6 +50,6 @@ Templates and base projects:
 - **[HireBrain](https://github.com/josabi-Es/Hirebrain)**: local-first CV screening and ranking. `RAG · Ollama`
 - **[Recommendation_system](https://github.com/josabi-Es/Recommendation_system)**: news recommender from scraped content. `Embeddings · vector similarity`
 
-**Delivery**
+**CI/CD**
 
 - **[micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: FastAPI microservices, auto-shipped on every merge. `FastAPI · Docker · GitHub Actions`
