@@ -5,7 +5,7 @@ on:
     - cron: "0 6 * * 1"  # Cada lunes a las 06:00 UTC
   workflow_dispatch:       # Disparo manual desde la pestaña Actions
   push:
-    branches: [dev]
+    branches: [main]
 
 jobs:
   github-metrics:
