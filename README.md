@@ -26,29 +26,30 @@ Hi, I'm **José Salas**, a Data Engineer who follows the same good practices whe
 
 ### Base
 
-Every project starts from one of these two templates:
+Templates and base projects:
 
 - **[template-python-projects](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
 - **[template-claude-projects](https://github.com/josabi-Es/template-claude-projects)**: `Claude Code · Spec-Driven Development · MCP · CLAUDE.md`
+- **[medallion-databricks-demo](https://github.com/josabi-Es/medallion-databricks-demo)**
 
 ### Projects
 
 **Computer Vision / MLOps**
 
-- **[yolo-ops](#)**: YOLO training and model registry. `YAML · MLflow · Prefect · MinIO · Hugging Face Hub`
-- **[clearlabelling](#)**: auto-labeling and manual review UI, feeds back into yolo-ops. `Hugging Face · MinIO`
-- **[frame-extractor](#)**: video to frames. `OpenCV`
+- **[yolo-ops](https://github.com/josabi-Es/yolo-ops)**: YOLO training and model registry. `YAML · MLflow · Prefect · MinIO · Hugging Face Hub`
+- **[clearlabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-labeling and manual review UI, feeds back into yolo-ops. `Hugging Face · MinIO`
+- **[frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to frames. `OpenCV`
 
 **Data**
 
-- **[MadridSmart](#)**: traffic and air quality analytics for Madrid. `Airflow · Medallion architecture · Machine Learning`
+- **[MadridSmart](https://github.com/josabi-Es/MadridSmartData)**: traffic and air quality analytics for Madrid. `Airflow · Medallion architecture · Machine Learning`
 
 **AI Tools**
 
-- **[transcription-project](#)**: meeting transcription and AI summaries. `Whisper · LLM chat · PDF export`
-- **[HireBrain](#)**: local-first CV screening and ranking. `RAG · Ollama`
-- **[Recommendation_system](#)**: news recommender from scraped content. `Embeddings · vector similarity`
+- **[transcription-project](https://github.com/josabi-Es/transcription-project)**: meeting transcription and AI summaries. `Whisper · LLM chat · PDF export`
+- **[HireBrain](https://github.com/josabi-Es/Hirebrain)**: local-first CV screening and ranking. `RAG · Ollama`
+- **[Recommendation_system](https://github.com/josabi-Es/Recommendation_system)**: news recommender from scraped content. `Embeddings · vector similarity`
 
 **Delivery**
 
-- **[micro-tools-hub](#)**: FastAPI microservices, auto-shipped on every merge. `FastAPI · Docker · GitHub Actions`
+- **[micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: FastAPI microservices, auto-shipped on every merge. `FastAPI · Docker · GitHub Actions`
