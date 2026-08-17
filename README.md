@@ -18,7 +18,7 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,git,githubactions,tensorflow,pytorch,sklearn&theme=light" height="30"/>
+<img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,git,githubactions,tensorflow,pytorch,sklearn&theme=light" height="60"/>
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="30" height="30"/>
 <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="30" height="30"/>
 
