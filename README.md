@@ -26,7 +26,7 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 
 ### Apps I use every day
 
-- **[TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: turns a 3-hour recording into a 2-page summary with the key points, end to end and unattended. `Whisper · Gemini · PDF export`
+- **[TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: turns a 3 hour recording into a 2 page summary with the key points, end to end and unattended. `Whisper · Gemini · PDF export`
 - **[HireBrain](https://github.com/josabi-Es/Hirebrain)**: local-first CV screening and ranking. `RAG · Ollama`
 
 ### Projects
