@@ -45,5 +45,4 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 #### How I work locally or cloud
 
 - **8º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
-- **9º [Claude Code Best Practices](https://github.com/josabi-Es/template-claude-projects)**: `Plugins · Spec-Driven Development · MCP · Skills`
-- **10º [medallion-databricks-demo](https://github.com/josabi-Es/medallion-databricks-demo)**: `Medallion · Unity Catalog · dbutils.widgets · dbutils.secrets`
+
