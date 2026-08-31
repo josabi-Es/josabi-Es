@@ -27,22 +27,23 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 #### Personal apps or repos I use every day
 
 - **1º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export`
-- **2º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
 
 #### Public personal projects
 
-- **3º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform. (Data Engineering & Analytics)
+- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform. (Data Engineering & Analytics)
   - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`
-  - **Cloud version**: `Databricks · Spark · Power BI`
+  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn`
 
-- **4º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
+- **3º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
     - **5º [frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
     - **6º [ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres`
+   
+- **4º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
 
-- **7º [micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: microservices, auto-shipped on merge. `FastAPI · Docker · GitHub Actions` (Platform & CI/CD)
+- **5º [micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: microservices, auto-shipped on merge. `FastAPI · Docker · GitHub Actions` (Platform & CI/CD)
 
 #### How I work locally or cloud
 
-- **8º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
+- **6º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
 
