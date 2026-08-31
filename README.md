@@ -30,7 +30,7 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 
 #### Public personal projects
 
-- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform. (Data Engineering & Analytics)
+- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform. 
   - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`
   - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn`
 
