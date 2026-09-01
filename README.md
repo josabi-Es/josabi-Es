@@ -26,18 +26,18 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 
 #### Personal apps or repos I use every day
 
-- **1º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export`
+- **1º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export` 🏆
 
 #### Public personal projects
 
-- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform. 
-  - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`
-  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn`
+- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform.
+  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn` **[Databricks Version](https://github.com/josabi-Es/MadridSmartData)** 🏆🏆🏆
+  - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`**[Databricks Local](https://github.com/josabi-Es/MadridSmartData)**
 
 - **3º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
     - **5º [frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
-    - **6º [ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres`
+    - **6º [ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 🏆🏆
    
 - **4º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
 
