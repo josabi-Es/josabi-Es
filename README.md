@@ -31,8 +31,8 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 #### Public personal projects
 
 - **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform.
-  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn` **[Databricks Version](https://github.com/josabi-Es/MadridSmartData)** 🏆🏆🏆
-  - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`**[Databricks Local](https://github.com/josabi-Es/MadridSmartData)**
+  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn` **[Databricks version](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)** 🏆🏆🏆
+  - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`**[Local version](https://github.com/josabi-Es/MadridSmartData)**
 
 - **3º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
