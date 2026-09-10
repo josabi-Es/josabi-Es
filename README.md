@@ -11,7 +11,7 @@
 
 </div>
 
-Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**, and modern data platforms. I build production-grade pipelines in the cloud as well as local ML & engineering side projects.
+Hi! I'm **Jose Salas**, trained as a **Data Engineer** with practical experience in **backend**, **cloud**, and **MLOps**. I apply solid Python software practices to ship data solutions to production with CI/CD, always keen on using modern tech and building my own tools featured below.
 
 * **LinkedIn:** [josesalasbiedma](https://www.linkedin.com/in/josesalasbiedma/)
 * **Portfolio:** [Web Showcase](https://web-build-jsb.netlify.app/)
