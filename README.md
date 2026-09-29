@@ -11,7 +11,7 @@
 
 </div>
 
-Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**, and modern data platforms. I build production-grade pipelines in the cloud as well as local ML & engineering side projects.
+Hi! I'm **Jose Salas**, trained as a **Data Engineer** with practical experience in **backend**, **cloud**, and **MLOps**. I apply solid Python software practices to ship data solutions to production with CI/CD, always keen on using modern tech and building my own tools featured below.
 
 * **LinkedIn:** [josesalasbiedma](https://www.linkedin.com/in/josesalasbiedma/)
 * **Portfolio:** [Web Showcase](https://web-build-jsb.netlify.app/)
@@ -34,7 +34,7 @@ Hi! I'm **José Salas**, a Data Engineer working with **Databricks**, **Azure**,
 
 - **3º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
 
-- **4º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
+- **3º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
     - **[frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
     - **[ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 🏆🏆
