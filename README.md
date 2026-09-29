@@ -24,26 +24,28 @@ Hi! I'm **Jose Salas**, trained as a **Data Engineer** with practical experience
 
 </div>
 
-#### Personal apps or repos I use every day
+#### Personal Projects
 
-- **1º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export` 🏆
+- **1º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)**: traffic & air-quality platform.
+  - **Cloud version**: `CKAN · Databricks · Spark · Power BI · Scikit Learn` **[Databricks version](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)** 🏆🏆🏆
+  - **Local version**: `CKAN · Airflow · DuckDB · scikit-learn · Docker` **[Local version](https://github.com/josabi-Es/MadridSmartData)**
 
-#### Public personal projects
+- **2º [micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: microservices, auto-shipped on merge. `FastAPI · Docker · GitHub Actions` (Platform & CI/CD)
 
-- **2º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData)**: traffic & air-quality platform.
-  - **Cloud version**: `Databricks · Spark · Power BI · Scikit Learn` **[Databricks version](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)** 🏆🏆🏆
-  - **Local version**: `Airflow · DuckDB · scikit-learn · Docker`**[Local version](https://github.com/josabi-Es/MadridSmartData)**
+- **3º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
 
 - **3º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
-    - **5º [frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
-    - **6º [ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 🏆🏆
-   
-- **4º [HireBrain](https://github.com/josabi-Es/Hirebrain)**: local CV screening & ranking. `RAG · Ollama`
+    - **[frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
+    - **[ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 🏆🏆
 
-- **5º [micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: microservices, auto-shipped on merge. `FastAPI · Docker · GitHub Actions` (Platform & CI/CD)
+- **5º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export` 🏆
 
-#### How I work locally or cloud
+- **6º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: how I work locally or cloud. `uv · ruff · pytest · GitHub Actions · Conventional Commits`
 
-- **6º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: `uv · ruff · pytest · GitHub Actions · Conventional Commits`
+#### Technical Tests
 
+Real technical tests from hiring processes, solved and documented.
+
+- **[data_technical_tests](https://github.com/josabi-Es/data_technical_tests)**: data engineering test solutions. `Airbyte · Airflow · dbt`
+- **[interview-lab](https://github.com/josabi-Es/interview-lab)**: real questions from every interview I have taken, with corrections and optimisations. `SQL · Python · Spark · Cloud`
