@@ -27,7 +27,7 @@ Hi! I'm **Jose Salas**, trained as a **Data Engineer** with practical experience
 #### Personal Projects
 
 - **1º [MadridSmartData](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)**: traffic & air-quality platform.
-  - **Cloud version**: `CKAN · Databricks · Spark · Power BI · Scikit Learn` **[Databricks version](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)** 🏆🏆🏆
+  - **Cloud version**: `CKAN · Databricks · Spark · Power BI · Scikit Learn` **[Databricks version](https://github.com/josabi-Es/MadridSmartData/tree/feat/databricks-structure)** 
   - **Local version**: `CKAN · Airflow · DuckDB · scikit-learn · Docker` **[Local version](https://github.com/josabi-Es/MadridSmartData)**
 
 - **2º [micro-tools-hub](https://github.com/josabi-Es/micro-tools-hub)**: microservices, auto-shipped on merge. `FastAPI · Docker · GitHub Actions` (Platform & CI/CD)
@@ -37,9 +37,9 @@ Hi! I'm **Jose Salas**, trained as a **Data Engineer** with practical experience
 - **4º [yolo-ops](https://github.com/josabi-Es/yolo-ops)**: training, registry & tracking. `MLflow · Prefect · MinIO` (MLOps for industrial vision)
   - *Personal apps built to speed up and improve this workflow:*
     - **[frame-extractor](https://github.com/josabi-Es/frame-extractor)**: video to training frames. `OpenCV`
-    - **[ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 🏆🏆
+    - **[ClearLabelling](https://github.com/josabi-Es/ClearLabelling)**: auto-label + review UI. `React · FastAPI · Postgres` 
 
-- **5º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export` 🏆
+- **5º [TranscriptFlow](https://github.com/josabi-Es/transcription-project)**: recording to key-points summary. `Whisper · Gemini · PDF export`
 
 - **6º [Python Toolkit](https://github.com/josabi-Es/template-python-projects)**: how I work locally or cloud. `uv · ruff · pytest · GitHub Actions · Conventional Commits`
 
